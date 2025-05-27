@@ -2,7 +2,6 @@ import streamlit as st
 import cv2
 import mediapipe as mp
 import numpy as np
-from playsound import playsound
 import time
 
 if "page" not in st.session_state:
