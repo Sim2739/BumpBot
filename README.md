@@ -13,4 +13,4 @@
  Computer Vision: OpenCV, MediaPipe Pose
  Language: Python
 
- You can try the app here: https://bumpbot-qzly.onrender.com
+ You can try the app here: https://bumpbot-ypdx.onrender.com
